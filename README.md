@@ -15,9 +15,6 @@ An awesomesauce lightsaber mod for gorilla tag. Now with alot more features 😄
 **Mod Requirements:**
 > * **[Utilla](<https://github.com/legoandmars/Utilla/releases/tag/v1.6.14>)**
 
-# [Download](<>)
-# [Source](<https://github.com/LEPHROGFISH/Gsabers-Remastered/tree/main/Source%20Code>)
-
 **DM ME IF THERE ARE ANY BUGS**
 # Preview
 ![preview](https://github.com/LEPHROGFISH/Gsabers-Remastered/blob/main/imgs/GSaberPreview.png?raw=true)
