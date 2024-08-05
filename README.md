@@ -20,4 +20,4 @@ An awesomesauce lightsaber mod for gorilla tag. Now with alot more features 😄
 
 **DM ME IF THERE ARE ANY BUGS**
 # Preview
-![preview](test)
+![preview](https://github.com/LEPHROGFISH/Gsabers-Remastered/blob/main/imgs/GSaberPreview.png?raw=true)
