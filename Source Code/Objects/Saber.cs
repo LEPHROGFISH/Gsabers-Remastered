@@ -15,7 +15,7 @@ namespace GSabersRemaster.Objects
             var bundle = LoadAssetBundle("GSabersRemaster.Resources.gsabers");
             var asset = bundle.LoadAsset<GameObject>("Sabers");
 
-            saber = Instantiate(asset, GameObject.Find("Player Objects/Local VRRig/Local Gorilla Player/rig/body/shoulder.R/upper_arm.R/forearm.R/hand.R").transform);
+            saber = Instantiate(asset, GameObject.Find("Player Objects/Local VRRig/Local Gorilla Player/RigAnchor/rig/body/shoulder.R/upper_arm.R/forearm.R/hand.R").transform);
             saber.transform.localPosition = new Vector3(0.05052872f, 0.07158074f, 0.008802317f);
             saber.transform.localRotation = Quaternion.Euler(16.652f, -81.292f, -80.824f);
 
